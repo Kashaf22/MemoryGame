@@ -62,7 +62,7 @@ https://imgur.com/1nLCCbu.gif
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/ajYq4j72nL0)
 
 
 ## License
