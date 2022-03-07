@@ -48,8 +48,9 @@ https://imgur.com/1nLCCbu.gif
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 I used the following websites for this pre-work:
--- [StackOverflow] https://stackoverflow.com/questions/67559504/how-to-modify-a-particular-frequency-in-a-sound-file-in-p5-js
- --[w3w schools] https://www.w3schools.com/css//css_font_websafe.asp
+
+--[StackOverflow] https://stackoverflow.com/questions/67559504/how-to-modify-a-particular-frequency-in-a-sound-file-in-p5-js
+ --[w3w schools] https://www.w3schools.com/css//css_font_websafe.asp , https://www.w3schools.com/html/
  --[MDN Web] Docshttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool
  
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
