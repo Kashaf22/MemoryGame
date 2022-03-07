@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
+<img src='https://imgur.com/uPatBzC.gif' title='Walkthrough' width='' alt='Video Walkthrough' />
 
-https://imgur.com/uPatBzC.gif
 
 
 ## Reflection Questions
