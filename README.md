@@ -4,7 +4,7 @@
 
 Submitted by: **KASHAF MUJEEB**
 
-Time spent: **10** hours spent in total
+Time spent: **12** hours spent in total
 
 Link to project: [Link to the game] https://sponge-jade-quarter.glitch.me
 [Link to the code for the game] https://glitch.com/edit/#!/sponge-jade-quarter
