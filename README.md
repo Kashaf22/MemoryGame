@@ -56,7 +56,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 I encountered following challenges while creating this submission: 
 
-I) I have never done HTML, CSS, and JavaScript before, so it was a little bit challenging for me to grasp the syntax of these languages. For instance, in HTML I did not know how to comment something out or in JavaScript, I did not know that we must use "var" keyword to declare variables. To tackle these challenges, I used w3w schools website to do their "Try it for yourself" small coding exercises. These exercises were short and super useful for me to understand how the basic syntax of these languages work.  
+I) I have never done HTML, CSS, and JavaScript before, so it was a little bit challenging for me to grasp the syntax of these languages. For instance, in HTML I did not know how to comment something out or in JavaScript, I did not know that we can use "var" keyword to declare variables. To tackle these challenges, I used w3w schools website to do their "Try it for yourself" small coding exercises. These exercises were short and super useful for me to understand how the basic syntax of these languages work.  
 
 II) I also had issues with my code while calling the start and stop function in the HTML file. My start button was not getting replaced with the stop button upon clicking. I debugged for a while and then I referred to the CodePath pre-work snippets. I realized my code had some extra default lines in the HTML file that were not allowing my start button to be replaced by anything else. Once I removed those default lines, my code worked fine.
 
