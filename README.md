@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 
-https://media.giphy.com/media/kW6TL5t8DTfUG9aXTd/giphy.gif
+https://media.giphy.com/media/kW6TL5t8DTfUG9aXTd.gif
 
 
 ## Reflection Questions
